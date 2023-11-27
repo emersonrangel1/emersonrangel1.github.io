@@ -1,6 +1,9 @@
 #ODS1 {
-    text-align: center;
-    width: 100%;
-    height: 1000px;
-    border: 5px solid#000;
+   margin: 0 auto;
+    width: 900px;
+   color: #fff;
+}
+html {
+    background-color: rgb(7, 6, 6);
+    border: 5px solid#bb1111;
 }
