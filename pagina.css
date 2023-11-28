@@ -1,9 +1,30 @@
 #ODS1 {
-   margin: 0 auto;
+   margin: 30px auto;
     width: 900px;
    color: #fff;
 }
 html {
     background-color: rgb(7, 6, 6);
     border: 5px solid#bb1111;
+}
+.titulo {
+    color:#fff;
+}
+.titulo2 {
+    color: #0529f8;
+}
+.titulo3 {
+    color: #0529f8;
+}
+.grafico {
+    color: #0529f8;
+}
+.oque {
+    color: #0529f8;
+}
+.menu {
+    float: left;
+}
+.casa {
+    color: #fdfafa;
 }
